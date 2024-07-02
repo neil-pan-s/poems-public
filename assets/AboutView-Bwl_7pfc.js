@@ -1,0 +1,1 @@
+import{b1 as e,a4 as s,a3 as t,af as o}from"./index-CgsO00XO.js";const a={},c={class:"about"},n=o("h1",null,"This is an about page",-1),_=[n];function r(i,d){return t(),s("div",c,_)}const l=e(a,[["render",r]]);export{l as default};
